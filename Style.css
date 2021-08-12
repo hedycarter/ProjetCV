@@ -1,0 +1,19 @@
+
+body {
+ font-family: 'Raleway', sans-serif;
+  color: #000000;
+  cursor: context-menu;
+    text-transform: capitalize;
+	background-color : gray;
+	color : #FFE4C4
+
+}
+#h1,h2{
+color : orange;
+justify-content: center;
+}
+
+img{
+	display: flex;
+	border-radius: 50%;P { text-align: center }
+}
